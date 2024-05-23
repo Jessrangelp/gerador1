@@ -220,5 +220,3 @@ class FavoritesPage extends StatelessWidget {
 }
 
 
-// git commit -m "feat: auteração feita"
-// git push
