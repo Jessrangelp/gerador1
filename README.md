@@ -1,16 +1,10 @@
 # flutter_application_1
 
-A new Flutter project.
+12217002 - Jéssica Pereira Rangel
 
-## Getting Started
+124100001 - Leonarda Correia Amaral
 
-This project is a starting point for a Flutter application.
+122100007 - Matheus Matos Rodrigues 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/1.png)
+![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/2.png)
