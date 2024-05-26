@@ -6,5 +6,5 @@
 
 122100007 - Matheus Matos Rodrigues 
 
-![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/1.png)
-![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/2.png)
+![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/Img1.png)
+![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/Img2.png)
